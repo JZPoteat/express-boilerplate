@@ -17,11 +17,11 @@ Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
 ## commands: 
 
-npm i express morgan cors dotenv helmet
+npm i express morgan cors dotenv helmet uuid winston
 
 npm i mocha chai supertest nodemon -D
 
-npm install uuid
+
 ## Scripts
 
 Start the application `npm start`
